@@ -1,0 +1,51 @@
+/* common css code start*/
+body{}
+div{
+	border:solid;
+}
+	/* text/font color*/
+.text-danger{color:#ff0000;}
+.text-warning{color:#ff6666;}
+.text-primary{color: #0091ff;}
+	/* background color*/
+.bg-danger{background-color:#ff0000;}
+.bg-warning{background-color:#ff6666;}
+.bg-primary{background-color:#0091ff;}
+	/* text/font size*/
+.fs-10{font-size:10px;}
+.fs-20{font-size:20px;}
+.fs-40{font-size:40px;}
+.fs-50{font-size:50px;}
+	/* border*/
+.border{border:1px solid black;}
+.border-bottom{border-bottom:1px solid black;}
+.border-top{border-top:5px solid black;}
+.border-right{border-right:1px solid black;}
+.border-left{border-left:2px solid black}
+
+/* common css end*/
+.div-one{
+	color:blue;
+}
+.div-two{
+	padding:30px;
+	margin:50px;
+}
+/* box-sizing:border box poperty*/
+.div-three{
+	height:300px;
+	width:400px;
+	margin-bottom:10px;
+	box-sizing:border-box;
+}
+img{
+	width:100%;
+}
+.div-four{
+	width:400px;
+	padding:10px;
+	border:10px solid;
+	box-sizing:border-box;
+	}
+	
+
